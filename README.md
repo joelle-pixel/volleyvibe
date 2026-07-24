@@ -4,7 +4,9 @@ The Instagram for volleyball — learn, connect, find your club, and level up yo
 
 ## Live site
 
-**https://joelle-pixel.github.io/volleyvibe/**
+**https://joelle-y10.github.io/volleyvibe/**
+
+(Also available on the prior account: https://joelle-pixel.github.io/volleyvibe/)
 
 ## Run locally
 
